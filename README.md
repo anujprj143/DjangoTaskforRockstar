@@ -1,0 +1,2 @@
+# DjangoTaskforRockstar
+Task solution 
